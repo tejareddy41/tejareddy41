@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejareddy41
-- 👀 I’m interested in software development & Artifical Intelligence
-- 🌱 I’m currently doing my bachelors in technology(Computer Science)
+- 👀 I’m interested in software development & Artificial Intelligence
+- 🌱 I’m completed my bachelor in technology(Computer Science)
 - 💞️ I’m looking to collaborate on Software Development & Ai
 - 📫 How to reach me 
   - mail me pteja2106@gmail.com
